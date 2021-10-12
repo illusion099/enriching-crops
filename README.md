@@ -1,4 +1,4 @@
-# Enriching Crops 🌿
+# Enriching Crops
 #### A simple ML  based website which recommends the best crop to grow, fertilizers to use for your crops.
 
 
